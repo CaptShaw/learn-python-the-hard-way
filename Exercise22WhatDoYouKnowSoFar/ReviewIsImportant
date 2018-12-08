@@ -1,0 +1,25 @@
+单词表 REVIEW IS IMPORTANT
+
+print 接，后面内容不换行
+def
+from
+import
+#
+:
+' "
+"""
+\\ \n \t \' \"
+sys.argv
+script, arg = sys.argv
+=
+( )
+> < >= <=
++-*/**//
+%
+raw_input('PROMPT')
+open().read()
+open().close()
+open().write()
+.seek(0)
+.truncate
+
